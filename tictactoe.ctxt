@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=tictactoe
+comment1.params=arr
+comment1.target=int\ check(java.lang.String[])
+comment2.params=board
+comment2.target=boolean\ full(java.lang.String[][])
+comment3.params=board
+comment3.target=int\ winNot(java.lang.String[][])
+comment4.params=
+comment4.target=void\ line()
+comment5.params=board
+comment5.target=void\ print(java.lang.String[][])
+comment6.params=board
+comment6.target=void\ twoPlayer(java.lang.String[][])
+comment7.params=board
+comment7.target=void\ computer(java.lang.String[][])
+comment8.params=
+comment8.target=void\ main()
+numComments=9

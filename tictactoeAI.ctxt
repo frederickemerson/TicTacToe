@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=tictactoeAI
+comment1.params=arr
+comment1.target=int\ max(int[])
+comment1.text=tictactoeAI(String\ b[][],String\ turn)\n\ \ \ \ {\n\ \ \ \ this.board\=b;\n\ \ \ \ //this.turn\=turn;\n}
+comment10.params=board\ player
+comment10.target=void\ play(java.lang.String[][],\ java.lang.String)
+comment11.params=
+comment11.target=void\ main()
+comment2.params=arr
+comment2.target=int\ getPosMax(int[])
+comment3.params=arr
+comment3.target=int\ getPosMin(int[])
+comment4.params=arr
+comment4.target=int\ min(int[])
+comment5.params=a\ c
+comment5.target=java.lang.String[]\ normalize(java.lang.String[],\ int)
+comment6.params=board
+comment6.target=java.lang.String[]\ getSpaces(java.lang.String[][])
+comment7.params=board\ turn
+comment7.target=int\ subMove(java.lang.String[][],\ java.lang.String)
+comment8.params=board\ turn
+comment8.target=java.lang.String\ mainMove(java.lang.String[][],\ java.lang.String)
+comment9.params=
+comment9.target=int[]\ input()
+numComments=12
